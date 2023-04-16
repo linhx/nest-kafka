@@ -1,0 +1,2 @@
+export const SUBSCRIBER_METADATA_KEY = 'KAFKA_SUBSCRIBER_METADATA_KEY';
+export const MSG_BODY_METADATA_KEY = Symbol('MsgBody');
